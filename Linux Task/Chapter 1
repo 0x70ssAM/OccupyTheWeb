@@ -1,0 +1,20 @@
+Chapter 1:
+
+1-cd /
+ls
+cd home
+pwd
+
+2-whoami
+
+3-locate wordlists
+
+4- cat > newfile
+Hi Yasser
+cat >> newfile
+No, Hello yasser hh
+
+5- mkdir hackerdirectory
+cd hackerdirectory
+touch backedfile
+cp backedfile /root/secretfile

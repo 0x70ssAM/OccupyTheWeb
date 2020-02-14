@@ -1,0 +1,13 @@
+Chapter 2:
+
+1- cd /usr/share/wordlists/metasploit
+
+2- cat  password.lst
+
+3- more password.lst
+
+4- less password.lst
+
+5- nl   password.lst
+
+6- cat  password.lst | grep 123

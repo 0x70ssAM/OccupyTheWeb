@@ -1,0 +1,12 @@
+Chapter 11:
+
+1- locate rsyslog
+
+2- leafpad /etc/rsyslog.conf
+weekly
+rotate 1
+
+3- service rsyslog stop
+bash: /var/log/syslog: Permission denied
+
+4- shred --remove

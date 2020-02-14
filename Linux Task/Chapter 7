@@ -1,0 +1,19 @@
+Chapter 7:
+
+1- set | more
+
+2- echo $HOSTNAME
+
+3- export PS1='C:\w>'
+
+4- MYNEWVARIABLE="Hossam"
+
+5- echo $MYNEWVARIABLE
+
+6- export MYNEWVARIABLE
+
+7- echo #PATH
+
+8- PATH=$PATH:/home
+
+9- PS1="World’s Greatest Hacker:"

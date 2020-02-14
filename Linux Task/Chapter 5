@@ -1,0 +1,10 @@
+Chapter 5:
+
+1- ls -l /usr/share/hashcat
+
+2- chmod 774 hashcat.hcstat
+chmod u+x hashcat.hcstat
+
+3- chown Hossam /tmp/media
+
+4- find/-userroot-perm-4000

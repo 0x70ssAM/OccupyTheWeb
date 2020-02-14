@@ -1,0 +1,11 @@
+Chapter 4:
+
+1- apt-get install snort
+
+2- apt-get remove snort
+
+3- apt-get update
+
+4- apt-get upgrade
+
+5- git clone https://www.github.com/balle/bluediving.git

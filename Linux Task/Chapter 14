@@ -1,0 +1,17 @@
+Chapter 14:
+
+1- ifconfig
+
+2- iwconfig
+
+3- wilist
+
+4- nmcli dev wifi
+
+5- nmcli dev wifi connect No-Way password 123456789#
+
+6- hciconfig
+hciconfig hci0 up
+hcitool scan
+
+7- l2ping 76:6E:46:63:72:66 -c 4

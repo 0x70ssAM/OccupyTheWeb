@@ -1,0 +1,23 @@
+Chapter 12:
+
+1- service apache2 start
+
+2- leafpad /var/www/html/index.html
+<html>
+<body>
+<h1>Hackers-Arise Is the Best! </h1>
+<p> If you want to learn hacking, Hackers-Arise.com </p>
+<p> is the best place to learn hacking!</p>
+</body>
+</html>
+
+3- service ssh start
+ssh pi@192.168.1.101
+
+4- service mysql start
+mysql-uroot-p
+Enter password: hackers-arise
+use mysql;
+
+5- service postgresql start
+msfconsole

@@ -1,0 +1,10 @@
+Chapter 10:
+
+1- mount /dev/sdc1 /media
+umount /dev/sdc1
+
+2- fdisk -l
+
+3- fsck
+
+5- lsblk

@@ -1,0 +1,13 @@
+Chapter 16:
+
+1- 00 15 *    *   3 user /usr/share/MySQLsscanner.sh
+
+2- 00 00 10 4,6,8 * user /usr/share/MySQLsscanner.sh
+
+3- 00 10 *  *   2-5 user /usr/share/MySQLsscanner.sh
+
+4- 00 00 *   *    * user /usr/share/MySQLsscanner.sh
+
+5- update -rc.d postgresql defaults
+
+6- Done

@@ -1,0 +1,12 @@
+Chapter 15:
+
+1- uname -a
+
+2- lsmod
+
+3- sysctl -w net.ipv4.ip_forward=1
+
+4- leafpad /etc/sysctl.conf
+(net.ipv4.ip_forward=1) remove the comment (#)
+
+5- modinfo bluetooth

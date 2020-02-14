@@ -1,0 +1,13 @@
+Chapter 6:
+
+1- ps aux
+
+2- top
+
+3- kill -9 2828
+
+4- renice 19 3226
+
+5- leafpad myscanning
+at 1:00 am February 26
+at> /root/myscanning
